@@ -1,0 +1,26 @@
+defaultPortal: Apptestaccount1
+portals:
+  - name: Apptestaccount1
+    portalId: 42403503
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CNjsuJabMRIRAA0AQAAA4G0DQAJYAgEAAMAYr42cFCCOj-QYKO7pDDIUrx-9gH4PRrq2pdTMNj3MNEKY5DE6OAAABEEAAAB4AAAAAAAAAAAAgAAAAAAABAAAwAcA_v8xPGBQBgBEAGBA_BgGABAgAwAAAAAAMAIDQhTSKjsKOwN2p6y3pwcqdegsBGl_ZEoDbmExUgBaAA
+        expiresAt: '2023-08-01T20:33:26.130Z'
+    personalAccessKey: >-
+      CiRmNzZjNjU3Ny02MmFhLTQwNTItYmU5MC1kNjRkZDQyZGJkMzEQr42cFBiOj-QYKhkABeaRgvIHSapynIyso_ZAtB7dH0u0iLcESgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
+  - name: LombardPartners
+    portalId: 7837893
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CI-iu5abMRIOAAUAQAAAAGwAQAJYAgEYxbHeAyCOj-QYKO7pDDIUL1TLi54AYMkZV1F7_EN4PDX_OXM6MAAABEEAAAAAAAAAAAAAAAAAgAAAAAAABAAAAAAAAAAAPGBQAABEAABA_BgGABAgA0IUGuP9Ki3UkslZenNK9BHSLNnZ2LFKA25hMVIAWgA
+        expiresAt: '2023-08-01T20:34:05.732Z'
+    personalAccessKey: >-
+      CiQ3ODE5YWFkYS1kYmMwLTRmOGYtODM2NC1lOWE3OTE2ZGFmMjIQxbHeAxiOj-QYKhkABeaRgsolBPfHrVAbg-c5je-01gpz0HQISgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
