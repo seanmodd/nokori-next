@@ -1,10 +1,20 @@
 {
   "workbench.colorCustomizations": {
-    "activityBar.background": "#1b2149",
+    "activityBar.background": "#342D13",
+    "editor.fontFamily": "SF Mono, Monaco",
+    "editor.fontSize": 12,
+    "editor.fontWeight": "normal",
+    "editor.tabSize": 2,
     "editorError.foreground": "#00000000",
     "editorInfo.foreground": "#00000000",
     "editorWarning.foreground": "#00000000",
-    "titleBar.activeBackground": "#1b2149",
-    "titleBar.activeForeground": "#FCFBF7"
+    "problems.decorations.enabled": true,
+    "titleBar.activeBackground": "#493F1B",
+    "titleBar.activeForeground": "#FCFBF7",
+    "window.nativeTabs": true,
+    "window.titleBarStyle": "native",
+    "window.zoomLevel": -0.5,
+    "workbench.editor.showIcons": true,
+    "workbench.iconTheme": "macOS-modern-color-icon-theme"
   }
 }
